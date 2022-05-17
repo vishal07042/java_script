@@ -1,3 +1,10 @@
 prompt
 alert
 typeof
+
+
+
+var myName="vishal";
+
+var myName1 = prompt("what is your name");
+alert("your name is " +myName1);
