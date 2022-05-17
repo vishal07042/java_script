@@ -8,3 +8,16 @@ var myName="vishal";
 
 var myName1 = prompt("what is your name");
 alert("your name is " +myName1);
+function test(){
+var a ="3";
+var b= "8";
+
+var a= a+b;
+var b=a-b;
+var a=a-b;
+
+
+console.log("a is " + a);
+console.log("b is " +b);
+
+}
